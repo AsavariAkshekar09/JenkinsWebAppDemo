@@ -1,0 +1,11 @@
+D:\Test Pipeline\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\JenkinsWebApplicationDemo.exe
+D:\Test Pipeline\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Test Pipeline\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Test Pipeline\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\JenkinsWebApplicationDemo.dll
+D:\Test Pipeline\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\JenkinsWebApplicationDemo.deps.json
+D:\Test Pipeline\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\JenkinsWebApplicationDemo.runtimeconfig.json
+D:\Test Pipeline\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\JenkinsWebApplicationDemo.pdb
+D:\Test Pipeline\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Test Pipeline\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Test Pipeline\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Test Pipeline\JenkinsWebApplicationDemo\JenkinsWebApplicationDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
